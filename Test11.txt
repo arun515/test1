@@ -1,1 +1,2 @@
 first file, a sample one to test pusk services in GIT
+modified for pushing all three files a single go
